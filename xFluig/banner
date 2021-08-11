@@ -11,7 +11,7 @@
 |                                                               |
 |    # Exploit Title: LFI - TOTVS Fluig Platform (xFluig)       |
 |    # Date: 26/11/2020						|
-|    # Exploit Author: Lucas Souza - https://lsass.io  |
+|    # Exploit Author: Lucas Souza - https://lsass.io           |
 |    # Vendor Homepage: totvs.com				|
 |    # Version: <== 1.7.0-210217				|
 |    # Tested on: 1.7.0-201124					|
